@@ -1,5 +1,5 @@
 {
-  "name": "tinyhouse-v1-server",
+  "name": "typescript-server",
   "version": "0.1.0",
   "dependencies": {
     "express": "^4.17.1"
